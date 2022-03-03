@@ -1,0 +1,19 @@
+{
+  "name": "rez-qa-challenge",
+  "version": "1.0.0",
+  "description": "As a QA Engineer we are expected to write automation for features completed by the development team. It is our task to automate both stories One and Two, ensuring we have the proper test coverage before releasing this product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PropertyBrands/rez-qa-challenge.git"
+  },
+  "author": "Antonina Catrinici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PropertyBrands/rez-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/PropertyBrands/rez-qa-challenge#readme"
+}
